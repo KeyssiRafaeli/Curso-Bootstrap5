@@ -1,0 +1,44 @@
+/* XS */
+h1{
+    color: rgb(255, 0, 0);
+}
+
+/* SM >= 576px */
+
+@media (min-width:576px){
+h1{
+    color: blue;
+}
+}
+
+/* MD >= 768px */
+
+@media (min-width:768px){
+    h1{
+        color: rgb(21, 255, 0);
+    }
+    }
+
+    /* LG >= 992px */
+
+@media (min-width:992px){
+    h1{
+        color: rgb(132, 0, 255);
+    }
+    }
+
+    /* XL >= 1200px */
+
+@media (min-width:1200px){
+    h1{
+        color: rgb(255, 0, 212);
+    }
+    }
+
+/*Meu monitor*/
+
+.btn-primary{
+    background-color: red;
+}
+
+/* Só vai mudar a cor se colocar o nome da classe, por que o seletor de bootstrap é mais forte, necessita dessa mudança*/
