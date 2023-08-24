@@ -44,12 +44,27 @@ h1{
 /* Só vai mudar a cor se colocar o nome da classe, por que o seletor de bootstrap é mais forte, necessita dessa mudança*/
 
 .container{
-background-color: aqua;
+    background-color: aqua;
 }
 
 
-/* hmmm esse é melhorzinho*/
-
 .container-fluid{
-background-color: brown;
+    background-color: brown;
+}
+
+/* container breakpoint*/
+
+.container-sm{
+    margin-bottom: 30px;
+    border: 2px solid blue;
+}
+
+.container-md{
+    margin-bottom: 30px;
+    border: 2px solid rgb(216, 11, 124);
+}
+
+.container-lg{
+    margin-bottom: 30px;
+    border: 2px solid rgb(255, 187, 0);
 }
