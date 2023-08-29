@@ -92,9 +92,11 @@ h1{
 
 .col,
 .col-4,
-.col-2
+.col-2,
 .col-1,
-.col-11{
+.col-11,
+.col-6,
+.col-3{
     border: 2px dashed red;
     height: 100%;
     margin: 0px;
@@ -115,6 +117,7 @@ largura-limitada{
     height: 100%;
 }
 
-.col-6{
+.col-6,
+.col-3{
     height: 50px;
 }
