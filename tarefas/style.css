@@ -1,0 +1,12 @@
+.col {
+    height: 40px;
+    border: 2px solid blue;
+}
+
+.impar{
+    background-color: red;
+}
+
+.par{
+    background-color: chartreuse;
+}
