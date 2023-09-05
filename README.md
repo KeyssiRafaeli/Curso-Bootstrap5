@@ -16,12 +16,13 @@ Eu particularmente estou amando muito aprender esta ferramenta, inclusive vou es
 
 <h3><p>˚✧◝‧┊ O que aprendi até agora:</p></h3>
 
-➝ Formas de instalação <br>
-➝ Breakpoints <br>
-➝ Containers <br>
-➝ Grids <br>
-➝ Colunas <br>
-➝ Alinhamentos <br>
-➝ Ordem dos elementos (foco em Mobile First) <br>
+➝ Formas de instalação; <br>
+➝ Breakpoints; <br>
+➝ Containers; <br>
+➝ Grids; <br>
+➝ Colunas; <br>
+➝ Alinhamentos; <br>
+➝ Ordem dos elementos (foco em Mobile First); <br>
+➝ Offset de colunas. <br>
 
 <p>(Gostei bastante também das variadas formas que se tem de aprender esse framework. Não apenas com aulas, a documentação também está sendo uma ferramenta muito rica para meu aprendizado. Recomendo muito ler a documentação.)</p>
