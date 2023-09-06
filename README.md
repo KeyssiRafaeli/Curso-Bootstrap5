@@ -24,6 +24,7 @@ Eu particularmente estou amando muito aprender esta ferramenta, inclusive vou es
 ➝ Alinhamentos; <br>
 ➝ Ordem dos elementos (foco em Mobile First); <br>
 ➝ Offset de colunas; <br>
-➝ Gutters. <br>
+➝ Gutters; <br>
+➝ Icons. <br>
 
 <p>(Gostei bastante também das variadas formas que se tem de aprender esse framework. Não apenas com aulas, a documentação também está sendo uma ferramenta muito rica para meu aprendizado. Recomendo muito ler a documentação.)</p>
