@@ -1,18 +1,18 @@
-.bi .bi-qr-code{
+.bi-qr-code {
     color:darkmagenta ;
     font-size: 60px;
 }
 
-.bi .bi-smartwatch{
+.bi-smartwatch{
     color: steelblue;
     font-size: 50px;
 }
 
-.bi .bi-snow2{
+.bi-snow2{
     color: mediumslateblue;
     font-size: 40px;
 }
 
 .container{
-    border: 2px solid red;
+    border: 2px solid rgb(0, 0, 0);
 }
